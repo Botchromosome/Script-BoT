@@ -36,9 +36,9 @@ MISAL DEPANNYA PAKE TANDA PETIK DI ATAS 1 (`) BERARTI DI AKHIRNYA HARUS DI TUTUP
 ❗MAU BELI SCRIPT YANG NO ENC ? KE PM BAWA DANA, HARGA BISIK BISIK :V (6281231951590)
 ────────────────────────────────────────────────────────────────────────────────────────                                                                                                                                                                                                                                                                */
 limitawal = "50" //LIMIT AWAL
-namabot = "Its Me Xinzz" //NAMA BOT
-namaowner = "OWNER Xinzz🎖️" //NAMA OWNER
-nomerowner = '6281994112523' //NOMER OWNER
+namabot = "BoT-Chromosome" //NAMA BOT
+namaowner = "Ajur�" //NAMA OWNER
+nomerowner = '6285943175444' //NOMER OWNER
 gamewaktu = "300" //3 = 3 detik || 30 = 30 detik .Dst
 numbernye = "0" //GAUSAH DI UBAH JUGA GPP
 gcounttprem = "35" //LIMIT GAME AWAL UNTUK USER PREMIUM
@@ -54,7 +54,7 @@ const lolkey = 'isi' //MASUKAN APIKEYMU DI DISINI, JANGAN LUPA BUKA DAN TUTUP PA
 gopay = 'Kode Qr Di Profile Bot'
 dana = '081297365205'
 ovo = '081994112523'
-shopeepay = '081994112523'
+pulsa = '081318759394'
 paypal = '-'
 saweria = '-'
 ewalet = '-'
@@ -68,11 +68,11 @@ limit: 'Limit Kamu Sudah Habis, Silahkan Belii Lewat #buylimit (nominal) atau mi
 glimit: 'Limit Game Kamu Sudah Habis\nSilahkan Beli Lewat #buyglimit (nominal) atau minta gift dari temen mu',
 sewabot: `━ 「 𝗦𝗘𝗪𝗔 𝗕𝗢𝗧 」 ━
 
-30k / PERMANENT (FREE PREMIUM)
+50k / PERMANENT (FREE PREMIUM)
 
 ─ *PREMIUM USER* ─
 
-10K / BULAN
+20K / BULAN
 
 minat? wa.me/${nomerowner}`,
 
